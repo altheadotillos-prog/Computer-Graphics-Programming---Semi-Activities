@@ -1,1 +1,0 @@
-# Computer-Graphics-Programming---Semi-Activities
